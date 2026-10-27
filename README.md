@@ -1,16 +1,41 @@
-## Hi there 👋
+# 动物营养研发 | AI 训练与评测
 
-<!--
-**slieence/slieence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 个人简介
 
-Here are some ideas to get you started:
+具有动物营养专业背景及饲料研发经历，具备动物试验实施、样品检测、实验数据整理分析及科研报告撰写经验。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+关注专业知识与大模型能力评测的结合，能够结合专业知识对 AI 回答进行准确性、科学性及逻辑一致性分析，并开展参考答案整理与书面反馈。
+
+## 专业能力
+
+- **动物营养与饲料研发：** 动物营养、饲料添加剂、畜禽生产性能指标分析。
+- **实验数据分析：** 实验数据整理、统计分析、结果解读及报告撰写。
+- **AI 训练与评测：** 专业问题设计、模型回答质量评价、错误分析及参考答案编写。
+- **科研与逻辑分析：** 科学文献阅读、数据与结论一致性核查、专业内容审核。
+
+## 实验检测技能
+
+HPLC、ICAP、ELISA、WB、qPCR。
+
+## AI 工具与技术学习
+
+- **大模型应用：** 使用 ChatGPT 辅助资料整理、专业分析及内容审核，并结合专业知识复核结果。
+- **Python：** 基础学习与实践。
+- **Git / GitHub：** 学习版本管理与项目协作。
+- **Codex：** 探索 AI 辅助编程与小型工具开发。
+
+## 实践项目
+
+### 01 | 动物营养专业问答评测
+
+计划整理动物营养相关问题、模型回答分析、错误识别及参考答案，形成专业知识评测案例。
+
+### 02 | 实验数据分析
+
+计划整理脱敏的实验数据分析案例，展示数据处理、结果解读与结论核查思路。
+
+### 03 | 简历图片转可编辑 PDF
+
+学习使用 Python 与 AI 编程工具，探索将简历图片重建为可编辑文本、模块及排版元素的实现方法。
+
+*项目内容将随实际学习与开发进度持续更新。*
